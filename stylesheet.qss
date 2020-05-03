@@ -1,0 +1,33 @@
+QMainWindow {
+    background-color: #131c1c;
+    background-image: url("cartographer.png");
+    font-size: 15px;
+}
+
+QLabel {
+    background-color: #9fa8da;
+    border-radius: 3;
+    font-size: 18px;
+    padding: 5 20;
+}
+
+QPushButton {
+    background-color: #a2fafa;
+    border: none;
+    border-radius: 3;
+    padding: 5;
+}
+
+#gameBoard QPushButton {
+    background-color: #fff59d;
+    border-radius: 4;
+    border: 1 solid #212121;
+    font-size: 40px;
+    margin: 1;
+}
+
+#gameStatus {
+    background-color: transparent;
+    color: #a2fafa;
+    font-size: 14px;
+}
