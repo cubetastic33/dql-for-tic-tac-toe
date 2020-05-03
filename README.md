@@ -1,6 +1,9 @@
 # dql-for-tic-tac-toe
 I trained a deep Q-learning model to play tic tac toe
 
+# Preview
+![Me playing against the model](preview.gif)
+
 ## Network Architecture
 + Input layer of 27 neurons
 + Fully connected layer with 64 neurons and ReLU activation
